@@ -18,10 +18,10 @@ export default function Home() {
               priority
             />
             <div className="mt-0 md:mt-0">
-                <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">Let's create more tools and ideas that brings us together.</h2>
-                <p className="mb-6 font-light text-gray-400">Flowbite helps you connect with friends and communities of people who share your interests. Connecting with your friends and family as well as discovering new ones is easy with features like Groups.</p>
+                <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">Kaya Dispensary</h2>
+                <p className="mb-6 font-light text-gray-400">En Kaya nuestra misión es hacerte sentir como en casa. Desde que entras por el portón nuestra una meta es hacerte sentir contento y en paz. Queremos ofrecerte la mejor calidad al mejor precio y una experiencia que nunca olvidarás. #KayaWorld</p>
                 <a href="https://kayadispensarypr.com" className="inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4  font-medium rounded-lg text-sm px-5 py-2.5 text-center focus:ring-primary-900">
-                    Get started
+                    ¡Visítanos ya!
                     <svg className="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a>
             </div>
@@ -38,10 +38,10 @@ export default function Home() {
               priority
             />
             <div className="mt-4 md:mt-0">
-                <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">Let's create more tools and ideas that brings us together.</h2>
-                <p className="mb-6 font-light md:text-lg text-gray-400">Flowbite helps you connect with friends and communities of people who share your interests. Connecting with your friends and family as well as discovering new ones is easy with features like Groups.</p>
+                <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">Kaya Cultivators</h2>
+                <p className="mb-6 font-light md:text-lg text-gray-400">Kaya Cultivators es un cultivo pequeño con un enfoque artesanal. Todas nuestras plantas son alimentadas a mano diariamente e inspeccionadas por nuestro equipo de trabajo. Durante estos tiempos modernos en los que la producción se ha convertido en lo mas importante para muchos, nuestra misión es mantener la cultura del cannabis intacta y proveerle a nuestros pacientes una flor de la mejor calidad. #ManteniendoLaCultura</p>
                 <a href="https://kayadispensarypr.com" className="inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 text-center focus:ring-primary-900">
-                    Get started
+                    ¡Visítanos ya!
                     <svg className="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a>
             </div>
