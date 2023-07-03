@@ -28,6 +28,9 @@ export default function RootLayout({
       {/* Twitter */}
       <meta name="twitter:title" content="Kaya Cannabis" />
       <meta name="twitter:description" content="Queremos ofrecerte la mejor calidad al mejor precio y una experiencia que nunca olvidarás." />
+
+      {/* Favicon */}
+      <link rel="icon" href="/cultivo.ico" />
       
       <body className={inter.className}>{children}</body>
     </html>
