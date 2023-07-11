@@ -6,6 +6,7 @@ import Modal from './Modal'
 
 export default function Home() {
   const [showModal, setShowModal] = useState(true)
+  const [exit, setExit] = useState(false)
   return (
     <Fragment>
       <main className="flex min-h-screen flex-col items-center justify-between bg-center bg-opacity-25">
@@ -53,7 +54,7 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <Modal isVisible={showModal} onClose={() => setShowModal(false)}/>
+      <Modal isVisible={showModal} exit={exit} onClose={() => setShowModal(false)} onExit={() => setExit(true)}/>
     </Fragment>
   )
 }
